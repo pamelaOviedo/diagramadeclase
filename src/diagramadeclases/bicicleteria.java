@@ -27,6 +27,6 @@ private int  cantidaddeventa;
     }   
        
    bicicleta buscarbicicleta(String numerodeserie){
-      for (String)
+      for (int i= 0 ;String.;i++)
     }
 }
